@@ -6,7 +6,13 @@ http://cursor-education.github.io/project-from-scratch-talk/
 - Youtube's wireframe: http://grab.by/PqmW
 - Talk \w team about tools that you'll use
   - IDE? IDE plugins?
+  - Tools?
+  - Build process?
+  - Deploy process?
 - Create a project directories structure for styles & other static content
+  - dist/? src/?
+  - assets?
+  - versioning?
 - What frameworks & external things you will use? Pre/post -processors? Resets?
 - Layout sections/structure ?
   - http://www.subcide.com/articles/creating-a-css-layout-from-scratch/P2/
