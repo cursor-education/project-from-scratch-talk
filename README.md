@@ -2,6 +2,8 @@
 
 http://cursor-education.github.io/project-from-scratch-talk/
 
+![](http://new.tinygrab.com/7020c0e8b0a55d38c9baf95da48e9d424eac2f45ac.png)
+
 ## Notes
 - Youtube's wireframe: http://grab.by/PqmW
 - Talk \w team about tools that you'll use
